@@ -39,4 +39,4 @@ limitations under the License.
 ## GitHub and Link to Deployed Application
 Github: sevaggap
 <br>
-Application: https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Homework-3-Password-Generator/
+Application: https://sevaggap.github.io/Password-Generator/
